@@ -1,5 +1,5 @@
 # Horizon UI
-This project represents a hands-on from-scratch accurate implementation of the Horizon UI landing page Figma design (sadly, only for desktop) in TailwindCSS.
+This project represents a hands-on from-scratch accurate implementation of the [Horizon UI landing page Figma design](https://www.figma.com/@horizon_ui) (sadly, not responsive, works only for desktop) in TailwindCSS.
 
 # What does the project represent?
 The project represents an attempt to have fully semantically correct design implemented with TailwindCSS, to gain proper experience with it.
